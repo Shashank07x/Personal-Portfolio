@@ -1,5 +1,5 @@
 import React from 'react'
-import Service from './service.jsx'
+import Service from './Service.jsx'
 
 const servicesData = [
     {
