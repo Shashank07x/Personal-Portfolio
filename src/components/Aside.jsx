@@ -10,7 +10,7 @@ const Aside = () => {
     <aside className="sidebar">
       <div className="sidebar-info">
         <figure className="avatar-box">
-            <img src="../../public/images/profile.jpg" alt="" width="80px" />
+            <img src="/images/profile.jpg" alt="" width="80px" />
         </figure>
         <div className="info-content">
             <h1 className="name">Shashank S Saxena</h1>
